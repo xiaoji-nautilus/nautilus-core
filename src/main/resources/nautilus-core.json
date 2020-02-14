@@ -1,0 +1,14 @@
+{
+  "debug": true,
+  "github.app": {
+    "app-id": 51361,
+    "client-id": "Iv1.91d7e63870e8a391",
+    "client-secret": "5e694318ec6ddb407135ff078c5519ae440ae05e"
+  },
+  "local.server.host": "sa-amq",
+  "local.server.port": 5672,
+  "remote.server.host": "sa-amq",
+  "remote.server.port": 5672,
+  "amq.app.id": "nautilus",
+  "tasks.register": ""
+}
